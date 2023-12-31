@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/resolve-it-development/static/css/main.8e9ea6a7.css",
+    "main.js": "/resolve-it-development/static/js/main.7232c0e1.js",
+    "static/media/goodm.png": "/resolve-it-development/static/media/goodm.41d89da27f5e1cf1d973.png",
+    "static/media/banner2.png": "/resolve-it-development/static/media/banner2.b3924d6a4b8b19ef9de9.png",
+    "static/media/ayin.png": "/resolve-it-development/static/media/ayin.baef4448f4a28e2885c2.png",
+    "static/media/davi.jpg": "/resolve-it-development/static/media/davi.07927c3c45cb73f5a008.jpg",
+    "static/media/wp3.jpg": "/resolve-it-development/static/media/wp3.778f8c8db2bd0893aa9e.jpg",
+    "static/media/nearbyg2.jpg": "/resolve-it-development/static/media/nearbyg2.aba467a2d8343ff9bcd8.jpg",
+    "static/media/kal.jpeg": "/resolve-it-development/static/media/kal.712f1d7a3fe04a0d20cc.jpeg",
+    "static/media/logo.png": "/resolve-it-development/static/media/logo.e807fee77fca5c4d2610.png",
+    "static/media/db2.png": "/resolve-it-development/static/media/db2.b6f7588401d3e345f382.png",
+    "static/media/gatcot.jpg": "/resolve-it-development/static/media/gatcot.c1cdb2d72d2a2c16144e.jpg",
+    "static/media/ebc.jpg": "/resolve-it-development/static/media/ebc.294ab2b27963b7d734ca.jpg",
+    "static/media/reslogo.png": "/resolve-it-development/static/media/reslogo.eec5173b2fedcbbf7a02.png",
+    "static/media/foot-logo.png": "/resolve-it-development/static/media/foot-logo.90e79b80b5b801a4f5f5.png",
+    "static/media/selamawit.jpg": "/resolve-it-development/static/media/selamawit.2e5021d8b3b4de4eaa5c.jpg",
+    "static/media/joseph.jpg": "/resolve-it-development/static/media/joseph.3d41c4c05e9d3c6e5053.jpg",
+    "static/media/services.svg": "/resolve-it-development/static/media/services.0d43785bd1f41e4d0371.svg",
+    "static/media/portfolio.svg": "/resolve-it-development/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/resolve-it-development/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/contact.svg": "/resolve-it-development/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/about.svg": "/resolve-it-development/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/resolve-it-development/index.html",
+    "main.8e9ea6a7.css.map": "/resolve-it-development/static/css/main.8e9ea6a7.css.map",
+    "main.7232c0e1.js.map": "/resolve-it-development/static/js/main.7232c0e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e9ea6a7.css",
+    "static/js/main.7232c0e1.js"
+  ]
+}

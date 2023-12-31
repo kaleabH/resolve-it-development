@@ -30,6 +30,8 @@ import project7 from './assets/img/projects/ebc.jpg'
 import project8 from './assets/img/projects/db2.png'
 import project9 from './assets/img/projects/nearbyg2.jpg'
 import project10 from './assets/img/projects/ayin.png'
+import Project11 from './assets/img/projects/ebc_contact_admin.jpeg'
+import Project12 from './assets/img/projects/Home.png'
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -161,6 +163,22 @@ export const projectsData = [
     description:"Logo and business card for it company"
 
   },
+  {
+    id: '6',
+    image: Project11,
+    name: 'ebc contact admin',
+    category: 'desktop apps',
+    description:"the desktop application for the mobile contact admin"
+
+  },
+  {
+    id: '7',
+    image: Project12,
+    name: 'ECFC app',
+    category: 'Mobile Apps',
+    description:"he ecfc app is a mobile application for both IOS  and android .the app is utilized mainly by Ethiopia coffee football cub fans club members . however the application can also be used by any one that just wants to get new and match informations about the club."
+
+  },
 
   {
     id: '3',
@@ -174,7 +192,7 @@ export const projectsData = [
     id: '2',
     image: project7,
     name: 'Contact Directory',
-    category: 'Mobile App Development',
+    category: 'Mobile Apps',
     description:"a mobile app used to access contact directories for company"
 
   },
@@ -190,6 +208,12 @@ export const projectsNav = [
   },
   {
     name: 'web development',
+  },
+  {
+    name: 'desktop apps',
+  },
+  {
+    name: 'Mobile Apps',
   },
   {
     name: 'branding',
