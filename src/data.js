@@ -171,29 +171,29 @@ export const projectsData = [
     description:"the desktop application for the mobile contact admin"
 
   },
+  
+    {
+      id: '3',
+      image: project8,
+      name: 'Admin Dashboard',
+      category: 'web development',
+      description:"a dashboard for a company used for CRUD operation"
+  
+    },
+    {
+      id: '2',
+      image: project7,
+      name: 'Contact Directory',
+      category: 'Mobile Apps',
+      description:"a mobile app used to access contact directories for company"
+  
+    },
   {
     id: '7',
     image: Project12,
     name: 'ECFC app',
     category: 'Mobile Apps',
     description:"he ecfc app is a mobile application for both IOS  and android .the app is utilized mainly by Ethiopia coffee football cub fans club members . however the application can also be used by any one that just wants to get new and match informations about the club."
-
-  },
-
-  {
-    id: '3',
-    image: project8,
-    name: 'Admin Dashboard',
-    category: 'web development',
-    description:"a dashboard for a company used for CRUD operation"
-
-  },
-  {
-    id: '2',
-    image: project7,
-    name: 'Contact Directory',
-    category: 'Mobile Apps',
-    description:"a mobile app used to access contact directories for company"
 
   },
 ];
