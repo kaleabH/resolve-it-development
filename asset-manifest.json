@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/resolve-it-development/static/css/main.9fd89775.css",
-    "main.js": "/resolve-it-development/static/js/main.343b27ca.js",
+    "main.css": "/resolve-it-development/static/css/main.3f0805c5.css",
+    "main.js": "/resolve-it-development/static/js/main.ad838496.js",
     "static/media/goodm.png": "/resolve-it-development/static/media/goodm.41d89da27f5e1cf1d973.png",
     "static/media/banner2.png": "/resolve-it-development/static/media/banner2.b3924d6a4b8b19ef9de9.png",
     "static/media/ayin.png": "/resolve-it-development/static/media/ayin.baef4448f4a28e2885c2.png",
     "static/media/Home.png": "/resolve-it-development/static/media/Home.2a08c2336333fb7f7e4f.png",
-    "static/media/davi.jpg": "/resolve-it-development/static/media/davi.07927c3c45cb73f5a008.jpg",
+    "static/media/kale.jpeg": "/resolve-it-development/static/media/kale.9a800a0a99d2090b501f.jpeg",
     "static/media/ebc_contact_admin.jpeg": "/resolve-it-development/static/media/ebc_contact_admin.824524bd22f6309e5cce.jpeg",
     "static/media/wp3.jpg": "/resolve-it-development/static/media/wp3.778f8c8db2bd0893aa9e.jpg",
     "static/media/nearbyg2.jpg": "/resolve-it-development/static/media/nearbyg2.aba467a2d8343ff9bcd8.jpg",
-    "static/media/kal.jpeg": "/resolve-it-development/static/media/kal.712f1d7a3fe04a0d20cc.jpeg",
     "static/media/logo.png": "/resolve-it-development/static/media/logo.e807fee77fca5c4d2610.png",
     "static/media/db2.png": "/resolve-it-development/static/media/db2.b6f7588401d3e345f382.png",
     "static/media/gatcot.jpg": "/resolve-it-development/static/media/gatcot.c1cdb2d72d2a2c16144e.jpg",
@@ -25,11 +24,11 @@
     "static/media/contact.svg": "/resolve-it-development/static/media/contact.acdd342ba1db0f98c7cd.svg",
     "static/media/about.svg": "/resolve-it-development/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/resolve-it-development/index.html",
-    "main.9fd89775.css.map": "/resolve-it-development/static/css/main.9fd89775.css.map",
-    "main.343b27ca.js.map": "/resolve-it-development/static/js/main.343b27ca.js.map"
+    "main.3f0805c5.css.map": "/resolve-it-development/static/css/main.3f0805c5.css.map",
+    "main.ad838496.js.map": "/resolve-it-development/static/js/main.ad838496.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fd89775.css",
-    "static/js/main.343b27ca.js"
+    "static/css/main.3f0805c5.css",
+    "static/js/main.ad838496.js"
   ]
 }
