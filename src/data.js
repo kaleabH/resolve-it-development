@@ -45,8 +45,8 @@ import SkillImg8 from './assets/img/skills/figma.png';
 
 //owners image
 
-import OwnerImg1 from './assets/img/owners/davi.jpg'
-import OwnerImg2 from './assets/img/owners/kal.jpeg'
+// import OwnerImg1 from './assets/img/owners/davi.jpg'
+import OwnerImg2 from './assets/img/owners/kale.jpeg'
 import OwnerImg3 from './assets/img/owners/dev.jpg'
 
 // testimonial images
@@ -259,12 +259,13 @@ export const owners = [
     description:"CEO Senior Developer",
     name:"Kaleab Hailu"
 
-  },{
-    image:OwnerImg3,
-    description:"Team Leader Senior Developer",
-    name:"Dawit Lemma"
+  },
+  // {
+  //   image:OwnerImg3,
+  //   description:"Team Leader Senior Developer",
+  //   name:"Dawit Lemma"
 
-  }
+  // }
 
 ]
 // services

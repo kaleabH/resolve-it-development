@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resolve-it-development/static/css/main.9fd89775.css",
-    "main.js": "/resolve-it-development/static/js/main.07a25b0d.js",
+    "main.js": "/resolve-it-development/static/js/main.343b27ca.js",
     "static/media/goodm.png": "/resolve-it-development/static/media/goodm.41d89da27f5e1cf1d973.png",
     "static/media/banner2.png": "/resolve-it-development/static/media/banner2.b3924d6a4b8b19ef9de9.png",
     "static/media/ayin.png": "/resolve-it-development/static/media/ayin.baef4448f4a28e2885c2.png",
@@ -26,10 +26,10 @@
     "static/media/about.svg": "/resolve-it-development/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/resolve-it-development/index.html",
     "main.9fd89775.css.map": "/resolve-it-development/static/css/main.9fd89775.css.map",
-    "main.07a25b0d.js.map": "/resolve-it-development/static/js/main.07a25b0d.js.map"
+    "main.343b27ca.js.map": "/resolve-it-development/static/js/main.343b27ca.js.map"
   },
   "entrypoints": [
     "static/css/main.9fd89775.css",
-    "static/js/main.07a25b0d.js"
+    "static/js/main.343b27ca.js"
   ]
 }
