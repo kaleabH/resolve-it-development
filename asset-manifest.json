@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/resolve-it-development/static/css/main.3f0805c5.css",
-    "main.js": "/resolve-it-development/static/js/main.ad838496.js",
+    "main.js": "/resolve-it-development/static/js/main.16db5d07.js",
+    "static/media/Kaleab Hailu CV-new.pdf": "/resolve-it-development/static/media/Kaleab Hailu CV-new.d552401cf414955225a5.pdf",
     "static/media/goodm.png": "/resolve-it-development/static/media/goodm.41d89da27f5e1cf1d973.png",
+    "static/media/Dawit Lemma-CV+doc (1).pdf": "/resolve-it-development/static/media/Dawit Lemma-CV+doc (1).b8307ded750a5d5d89f6.pdf",
     "static/media/banner2.png": "/resolve-it-development/static/media/banner2.b3924d6a4b8b19ef9de9.png",
     "static/media/ayin.png": "/resolve-it-development/static/media/ayin.baef4448f4a28e2885c2.png",
     "static/media/Home.png": "/resolve-it-development/static/media/Home.2a08c2336333fb7f7e4f.png",
-    "static/media/kale.jpeg": "/resolve-it-development/static/media/kale.9a800a0a99d2090b501f.jpeg",
     "static/media/ebc_contact_admin.jpeg": "/resolve-it-development/static/media/ebc_contact_admin.824524bd22f6309e5cce.jpeg",
     "static/media/wp3.jpg": "/resolve-it-development/static/media/wp3.778f8c8db2bd0893aa9e.jpg",
     "static/media/nearbyg2.jpg": "/resolve-it-development/static/media/nearbyg2.aba467a2d8343ff9bcd8.jpg",
     "static/media/logo.png": "/resolve-it-development/static/media/logo.e807fee77fca5c4d2610.png",
     "static/media/db2.png": "/resolve-it-development/static/media/db2.b6f7588401d3e345f382.png",
+    "static/media/avatar.png": "/resolve-it-development/static/media/avatar.10691648d79aa2f92514.png",
     "static/media/gatcot.jpg": "/resolve-it-development/static/media/gatcot.c1cdb2d72d2a2c16144e.jpg",
     "static/media/ebc.jpg": "/resolve-it-development/static/media/ebc.294ab2b27963b7d734ca.jpg",
     "static/media/reslogo.png": "/resolve-it-development/static/media/reslogo.eec5173b2fedcbbf7a02.png",
@@ -25,10 +27,10 @@
     "static/media/about.svg": "/resolve-it-development/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/resolve-it-development/index.html",
     "main.3f0805c5.css.map": "/resolve-it-development/static/css/main.3f0805c5.css.map",
-    "main.ad838496.js.map": "/resolve-it-development/static/js/main.ad838496.js.map"
+    "main.16db5d07.js.map": "/resolve-it-development/static/js/main.16db5d07.js.map"
   },
   "entrypoints": [
     "static/css/main.3f0805c5.css",
-    "static/js/main.ad838496.js"
+    "static/js/main.16db5d07.js"
   ]
 }
