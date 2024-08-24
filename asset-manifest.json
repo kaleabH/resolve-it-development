@@ -1,11 +1,17 @@
 {
   "files": {
     "main.css": "/resolve-it-development/static/css/main.3f0805c5.css",
-    "main.js": "/resolve-it-development/static/js/main.16db5d07.js",
+    "main.js": "/resolve-it-development/static/js/main.8be7ae8c.js",
     "static/media/Kaleab Hailu CV-new.pdf": "/resolve-it-development/static/media/Kaleab Hailu CV-new.d552401cf414955225a5.pdf",
+    "static/media/jebanacoffee.png": "/resolve-it-development/static/media/jebanacoffee.0d69b7d85e6067c3d2cf.png",
     "static/media/goodm.png": "/resolve-it-development/static/media/goodm.41d89da27f5e1cf1d973.png",
     "static/media/Dawit Lemma-CV+doc (1).pdf": "/resolve-it-development/static/media/Dawit Lemma-CV+doc (1).b8307ded750a5d5d89f6.pdf",
+    "static/media/merodaland.png": "/resolve-it-development/static/media/merodaland.217ce284a1ecedfacbfa.png",
+    "static/media/solkatmtrading.png": "/resolve-it-development/static/media/solkatmtrading.3411b455059a7b88ffab.png",
     "static/media/banner2.png": "/resolve-it-development/static/media/banner2.b3924d6a4b8b19ef9de9.png",
+    "static/media/gujigreenland.png": "/resolve-it-development/static/media/gujigreenland.2264a7b577e12761aaee.png",
+    "static/media/compassEngineering.png": "/resolve-it-development/static/media/compassEngineering.58bc48dc17811af30518.png",
+    "static/media/mining.merodaland.png": "/resolve-it-development/static/media/mining.merodaland.ce6d91492a6949e46315.png",
     "static/media/ayin.png": "/resolve-it-development/static/media/ayin.baef4448f4a28e2885c2.png",
     "static/media/Home.png": "/resolve-it-development/static/media/Home.2a08c2336333fb7f7e4f.png",
     "static/media/ebc_contact_admin.jpeg": "/resolve-it-development/static/media/ebc_contact_admin.824524bd22f6309e5cce.jpeg",
@@ -27,10 +33,10 @@
     "static/media/about.svg": "/resolve-it-development/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/resolve-it-development/index.html",
     "main.3f0805c5.css.map": "/resolve-it-development/static/css/main.3f0805c5.css.map",
-    "main.16db5d07.js.map": "/resolve-it-development/static/js/main.16db5d07.js.map"
+    "main.8be7ae8c.js.map": "/resolve-it-development/static/js/main.8be7ae8c.js.map"
   },
   "entrypoints": [
     "static/css/main.3f0805c5.css",
-    "static/js/main.16db5d07.js"
+    "static/js/main.8be7ae8c.js"
   ]
 }
