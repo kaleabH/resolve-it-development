@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resolve-it-development/static/css/main.15beeae8.css",
-    "main.js": "/resolve-it-development/static/js/main.10191b15.js",
+    "main.js": "/resolve-it-development/static/js/main.4cfc739a.js",
     "static/media/Kaleab Hailu CV-new.pdf": "/resolve-it-development/static/media/Kaleab Hailu CV-new.d552401cf414955225a5.pdf",
     "static/media/jebanacoffee.png": "/resolve-it-development/static/media/jebanacoffee.0d69b7d85e6067c3d2cf.png",
     "static/media/goodm.png": "/resolve-it-development/static/media/goodm.41d89da27f5e1cf1d973.png",
@@ -33,10 +33,10 @@
     "static/media/about.svg": "/resolve-it-development/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/resolve-it-development/index.html",
     "main.15beeae8.css.map": "/resolve-it-development/static/css/main.15beeae8.css.map",
-    "main.10191b15.js.map": "/resolve-it-development/static/js/main.10191b15.js.map"
+    "main.4cfc739a.js.map": "/resolve-it-development/static/js/main.4cfc739a.js.map"
   },
   "entrypoints": [
     "static/css/main.15beeae8.css",
-    "static/js/main.10191b15.js"
+    "static/js/main.4cfc739a.js"
   ]
 }
