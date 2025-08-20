@@ -10,7 +10,7 @@ const Owners = () => {
         
         <div style={{alignItems:"center !important", flexDirection: "row", display:"flex"}} className='items-center'>
           {owners.map((owner, index) => {
-            const { image, name, description } = owner;
+            const { image, name, description, cv } = owner;
             return (
               <div className='bg-secondary p-1 items-center justify-center rounded-2xl ml-10 ' key={index}>
                 <div className='object-scale-down h-48 w-96  flex  mb-14'>
@@ -18,6 +18,7 @@ const Owners = () => {
                 </div>
                 <h4 className='text-xl text-accent font-bold mb-2'>{name}</h4>
                 <p className='text-neutral-300'>{description}</p>
+                <a className='text-xl text-accent font-bold mb-2' href={cv}>CV</a>
               </div>
             );
           })}

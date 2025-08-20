@@ -32,6 +32,13 @@ import project9 from './assets/img/projects/nearbyg2.jpg'
 import project10 from './assets/img/projects/ayin.png'
 import Project11 from './assets/img/projects/ebc_contact_admin.jpeg'
 import Project12 from './assets/img/projects/Home.png'
+import Merodaland from './assets/img/merodaland.png'
+import Mining_Merodaland from './assets/img/mining.merodaland.png'
+import CompassEngineering from './assets/img/compassEngineering.png'
+import SolkatmTrading from './assets/img/solkatmtrading.png'
+import GujiGreenLanding from './assets/img/gujigreenland.png'
+import JebanaCoffee from './assets/img/jebanacoffee.png'
+
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -46,8 +53,14 @@ import SkillImg8 from './assets/img/skills/figma.png';
 //owners image
 
 // import OwnerImg1 from './assets/img/owners/davi.jpg'
-import OwnerImg2 from './assets/img/owners/kale.jpeg'
-import OwnerImg3 from './assets/img/owners/dev.jpg'
+// import OwnerImg2 from './assets/img/owners/kale.jpeg'
+// import OwnerImg3 from './assets/img/owners/dev.jpg'
+import DefaultAvatar from './assets/img/owners/avatar.png'
+
+// owners cv
+
+import OwnerCv2 from './assets/cv/Kaleab Hailu CV-new.pdf'
+import OwnerCv3 from './assets/cv/Dawit Lemma-CV+doc (1).pdf'
 
 // testimonial images
 
@@ -143,6 +156,66 @@ export const projectsData = [
     category: 'Web Development',
     description:"a website for a minning company",
     link:"https://goodmining.epizy.com/",
+    
+
+  },
+  {
+    id: '7',
+    image: Merodaland,
+    name: 'merodaland',
+    category: 'Web Development',
+    description:"a website for a multi-sector company",
+    link:"https://merodaland.com/",
+    
+
+  },
+  {
+    id: '8',
+    image: SolkatmTrading,
+    name: 'sol kat m',
+    category: 'Web Development',
+    description:"a website for a minning company",
+    link:"https://solkatmtrading.com/",
+    
+
+  },
+  {
+    id: '9',
+    image: CompassEngineering,
+    name: 'compass engineering plc',
+    category: 'Web Development',
+    description:"a website for an electro mechanical engineering plc",
+    link:"https://compassengineeringplc.com/",
+    
+
+  },
+  {
+    id: '10',
+    image: GujiGreenLanding,
+    name: 'guji greenland',
+    category: 'Web Development',
+    description:"a website for a gemstones and coffee",
+    link:"https://gujigreenland.com/",
+    
+
+  },
+  {
+    id: '11',
+    image: Mining_Merodaland,
+    name: 'merodaland mining',
+    category: 'Web Development',
+    description:"a website for a gemstones and coffee",
+    link:"https://mining.merodaland.com/",
+    
+
+  },
+  {
+    id: '12',
+    image: JebanaCoffee,
+    name: 'jebana coffee',
+    category: 'Web Development',
+    description:"a website for a coffee plantation and export",
+    link:"https://jebanacoffee.com/",
     
 
   },
@@ -255,15 +328,24 @@ export const owners = [
   //   name:"Yared Bedane"
   // },
   {
-    image:OwnerImg2,
-    description:"CEO Senior Developer",
-    name:"Kaleab Hailu"
+    image:DefaultAvatar,
+    description:"Founder & Senior Developer",
+    name:"Kaleab Hailu",
+    // cv: OwnerCv2
 
   },
   // {
-  //   image:OwnerImg3,
-  //   description:"Team Leader Senior Developer",
-  //   name:"Dawit Lemma"
+  //   image:DefaultAvatar,
+  //   description:"Co-Founder & CEO",
+  //   name:"Yoseph Endale",
+  //   // cv: OwnerCv2
+
+  // },
+  // {
+  //   image:DefaultAvatar,
+  //   description:"Team coordinator & Frontend Developer",
+  //   name:"Dawit Lemma",
+  //   // cv:OwnerCv3
 
   // }
 
@@ -327,9 +409,9 @@ export const contact = [
     icon: <FiMail />,
     title: 'Have a question?',
     subtitle: 'We are here to help you.',
-    description: 'Email us at thinkitsolutions4@gmail.com',
-    phone: '+251-923318738',
-    phone2: '+251-966794615',
+    description: 'Email us at kaleabhailu46@gmail.com',
+    // phone: '+251-923318738',
+    // phone2: '+251-966794615',
   },
   {
     icon: <FiMapPin />,
